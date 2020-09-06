@@ -1,7 +1,7 @@
 
-<p align='center'>
+<h1 align='center'>
 basic example
-</p>
+</h1>
 
 <p align='center'>
 <img width="700px" src='https://www.prisma.io/blog/posts/introducing-prisma.png' alt=''/>
